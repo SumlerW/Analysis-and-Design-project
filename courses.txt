@@ -1,0 +1,60 @@
+CS100,Introduction to Programming
+CS101,Introduction to Computer Science
+CS102,Data Structures,CS101
+CS103,Algorithms,CS102
+CS104,Computer Organization,CS101
+CS105,Operating Systems,CS103,CS104
+CS106,Computer Networks,CS105
+CS107,Database Systems,CS102
+CS108,Web Development,CS101
+CS109,Mobile App Development,CS108
+CS110,Artificial Intelligence,CS103
+CS111,Machine Learning,CS110
+CS112,Deep Learning,CS111
+CS113,Natural Language Processing,CS111
+CS114,Computer Vision,CS110
+CS115,Cybersecurity Basics,CS101
+CS116,Advanced Cybersecurity,CS115
+CS117,Ethical Hacking,CS116
+CS118,Cryptography,CS115
+CS119,Blockchain Fundamentals,CS118
+CS120,Cloud Computing,CS105
+CS121,DevOps,CS120
+CS122,Software Engineering,CS103,CS107
+CS123,Agile Development,CS122
+CS124,Parallel Programming,CS105
+CS125,Game Development,CS103
+CS126,Augmented Reality,CS125
+CS127,Virtual Reality,CS125
+CS128,UI/UX Design,CS108
+CS129,Human-Computer Interaction,CS128
+CS130,Software Testing,CS122
+CS131,Compiler Design,CS104,CS103
+CS132,Embedded Systems,CS104
+CS133,IoT Systems,CS132
+CS134,Robotics,CS110
+CS135,Data Science,CS111
+CS136,Big Data Analytics,CS135
+CS137,Reinforcement Learning,CS112
+CS138,Data Mining,CS135
+MATH100,College Algebra
+MATH101,Calculus I,MATH100
+MATH102,Calculus II,MATH101
+MATH103,Linear Algebra
+MATH104,Discrete Mathematics
+MATH105,Probability and Statistics,MATH101
+MATH106,Differential Equations,MATH102
+MATH107,Mathematical Logic,MATH104
+PHYS100,General Physics I
+PHYS101,General Physics II,PHYS100
+PHYS102,Modern Physics,PHYS101
+PHYS103,Thermodynamics,PHYS101
+PHYS104,Quantum Mechanics,PHYS102
+PHYS105,Astrophysics,PHYS102
+PHYS106,Nuclear Physics,PHYS102
+GEN100,English Composition
+GEN101,Public Speaking
+GEN102,Technical Writing,GEN100
+GEN103,Professional Ethics
+GEN104,Research Methods
+GEN105,Critical Thinking
